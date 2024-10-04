@@ -8,4 +8,4 @@ This dataset is about companies around the world that laid off employees from 20
 -	Converted empty strings to null
 -	Deleted unrequired null rows and dropped unrequired columns.
 
-![](Screenshot 2024-10-04 184939.png)
+![](https://github.com/shipv11/DataCleaningInSQL/blob/main/Screenshot%202024-10-04%20184939.png)
